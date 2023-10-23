@@ -19,5 +19,11 @@ public class FirstClass {
 
         myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
         System.out.println(myTotal);
+
+        // There are 8 primitive data types in java
+        // Whole numbers are -byte- -short- -int- -long-
+        // Real number (floating point or decimal) are -float- -double-
+        // Single character is -char-
+        // And a Boolean value, which is giving true or false
     }
 }
