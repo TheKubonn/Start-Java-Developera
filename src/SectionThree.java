@@ -2,6 +2,7 @@ public class SectionThree {
     public static void main(String[] args) {
         // An integer is a whole number, meaning it doesn't contain a fractional element, or a decimal
         // Every Primitive types got their minimal and maximum value
+        // You can just add "+" to the System.out.print to display second variable in one line
 
         int myMinIntValue = Integer.MIN_VALUE;
         System.out.println("Integer min value: " + myMinIntValue);
