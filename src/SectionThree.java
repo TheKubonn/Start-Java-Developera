@@ -4,6 +4,9 @@ public class SectionThree {
         // Every Primitive types got their minimal and maximum value
         // You can just add "+" to the System.out.print to display second variable in one line
 
+
+        /*
+                    LEKCJA - Primitive Types
         int myMinIntValue = Integer.MIN_VALUE;
         System.out.println("Integer min value: " + myMinIntValue);
 
@@ -15,6 +18,19 @@ public class SectionThree {
         System.out.println("Integer max value: " + Integer.MAX_VALUE);
 
         System.out.println("Integer Value Range (" + Integer.MIN_VALUE + " to " + Integer.MAX_VALUE + ")" );
+
+
+        // Class is a building block for object-oriented programming, and allows us to build custom data types
+
+        System.out.println("Busted Max Value = " + (myMaxIntValue + 1));
+        System.out.println("Busted Min Value = " + (myMinIntValue - 1));
+        System.out.println("Integer Maximum Value = " + Integer.MAX_VALUE);
+
+        // int myMaxIntTest = 2_147_483_648;  ----- IT GIVES AN ERROR, VALUE TOO BIG
+        // YOU CAN GIVE AN UNDERSCORE _ TO MAKE THE CODE MORE READABLE
+        */
+
+
 
     }
 }
